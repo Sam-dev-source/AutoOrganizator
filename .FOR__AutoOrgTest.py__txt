@@ -1,0 +1,12 @@
+🖥️ Como rodar no fedora!!
+
+# 1. Confirme seu usuário e pastas
+echo $HOME
+ls ~
+
+# 2. Crie o arquivo (escolha uma pasta, ex: sua home)
+nano ~/organizador.py
+# Cole o código, salve com Ctrl+O, Enter, saia com Ctrl+X
+
+# 3. Execute
+python3 ~/organizador.py
