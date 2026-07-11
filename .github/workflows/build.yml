@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: OrganizadorApp-windows
-          path: dist/Main_.exe
+          path: dist/OrganizadorApp Main_.exe
