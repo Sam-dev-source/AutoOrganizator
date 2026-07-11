@@ -25,7 +25,7 @@ jobs:
           pip install pyinstaller
 
       - name: Compilar com PyInstaller
-        run: pyinstaller --onefile --windowed --name OrgRmPY Main_.exe
+        run: pyinstaller --onefile --windowed Main_.exe
 
       - name: Upload do executável
         uses: actions/upload-artifact@v4
