@@ -25,7 +25,7 @@ jobs:
           pip install pyinstaller
 
       - name: Compilar com PyInstaller
-        run: pyinstaller --onefile --windowed --name OrganizadorApp main.py
+        run: pyinstaller --onefile --windowed --name Main_.py
 
       - name: Upload do executável
         uses: actions/upload-artifact@v4
