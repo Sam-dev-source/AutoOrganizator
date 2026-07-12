@@ -4,10 +4,10 @@ import hashlib
 
 MAPEAMENTO_PADRAO = {
         "Imagens":     [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"],
-        "Documentos":  [".pdf", ".docx", ".txt", ".xlsx", ".odt", ".csv", ".latex"],
+        "Documentos":  [".pdf", ".docx", ".txt", ".xlsx", ".odt", ".csv", ".latex", ".xltx", ".dotx", ".pptx", ".ppsx", ".potx", ".xlsm"],
         "Videos":      [".mp4", ".mkv", ".avi", ".mov"],
         "Musicas":     [".mp3", ".wav", ".flac", ".ogg"],
-        "Executaveis": [".deb", ".sh", ".rpm", ".py", ".cs", ".html", ".css", ".json"],
+        "Apps/Executáveis": [".deb", ".sh", ".rpm", ".py", ".cs", ".html", ".css", ".json", ".exe", ".apk", ".elf", ".bin", ".bat", ".msi"],
     }
 
     
