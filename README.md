@@ -1,6 +1,6 @@
 # AutoReCleaner
 #
-=== Essa é uma versão mais antiga do AutoReCleaner, estou em fase de testes do app e logo será lançado! ===
+=== Essa é uma versão mais antiga do AutoReCleaner(Versão alpha), estou em fase de testes do app e logo vai acabar! ===
 
 Essa versão do app consertada do app, a anterior dava erros e ás vezes corrompiam alguns arquivos. É disponível para usuários de Windows. Se o Windows der algum tipo de aviso no momento em que for abrir o app, não se preocupe pois o Windows estranha com tools e apps "que o sistema acha inseguro!". Ainda não recebi demanda de pessoas do linux, mas pretendo fazer uma versão também para Linux e posteriormente para Mac (Se Possível kkkkkk)
 
