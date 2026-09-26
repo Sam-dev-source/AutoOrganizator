@@ -111,6 +111,3 @@ def remover_duplicatas(pasta, log_callback):
 
     log_callback(f"Total de duplicatas removidas: {removidos}")
     return removidos
-
-def remover_pastas_duplas():
-    pass
